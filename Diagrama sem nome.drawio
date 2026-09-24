@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="N0NLFnA_546G4vow5PJz">
+    <mxGraphModel dx="1677" dy="1079" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Usuario" vertex="1">
+          <mxGeometry height="60" width="30" x="670" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="1090" width="290" x="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerir Personagem" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerir Inventario" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-7" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-8" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Escolher Classe" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-12" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerir Skill" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-14" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerir Item" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-16" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerir mensagem&lt;br&gt;&amp;nbsp;chat&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-19" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Visualizar efeito" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-22" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Visualizar Status personagem" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-24" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Visualizar bestiario" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-26" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Verificar NPC" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-28" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Combater inimigo" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-30" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Investigar inimigo" vertex="1">
+          <mxGeometry height="70" width="140" x="305" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4XzrozWSGYYkH9Z5pK-32" edge="1" parent="1" source="ra4XzrozWSGYYkH9Z5pK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ra4XzrozWSGYYkH9Z5pK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
